@@ -1,0 +1,110 @@
+.primeiraBarra {
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 95%;
+
+/* WHITE */
+
+background:#FFFFFF;
+}
+
+#textoSegura {
+    position: absolute;
+    left: 22.73%;
+    right: 67.19%;
+    top: 4.86%;
+    bottom: 82.64%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* GRAY 1 */
+
+    color: #9F9F9F;
+}
+
+#textoFrete{
+    /* Frete grátis acima de R$ 200 */
+
+
+position: absolute;
+left: 44.38%;
+right: 42.03%;
+top: 4.86%;
+bottom: 82.64%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+text-align: center;
+
+/* rosa primario */
+
+color: #F71963;
+}
+#textoParcelamento{
+    /* Parcele suas compras */
+position: absolute;
+left: 69.53%;
+right: 19.84%;
+top: 4.86%;
+bottom: 82.64%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+text-align: center;
+
+/* rosa primario */
+
+color: #F71963;
+
+}
+.segundaBarra{
+/* Rectangle 249 */
+position: absolute;
+left: 0%;
+right: 0%;
+top: 22.22%;
+bottom: 27.78%;
+/* WHITE */
+background: #FFFFFF;
+
+}
+#Logo{    
+position: absolute;
+left: 4.38%;
+right: 91.01%;
+top: -30.0%;
+bottom: 115%;
+background-color: #ffffff;      
+}
+
+#CampoBusca{
+/* Rectangle 102 */
+
+position: absolute;
+left: 92.66%;
+right: 26.02%;
+top: -30.0%;
+bottom: 115.11%;
+
+background: #F7F5F2;
+border-radius: 10px;
+}
